@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 using UnityEngine.UI;
 
 public class MainMenu_StartMenu : MonoBehaviour
@@ -16,7 +15,6 @@ public class MainMenu_StartMenu : MonoBehaviour
     {
         soundManager = SoundManager.Instance;
         setSound(PlayerPrefs.GetInt("soundOn", 1) == 1);
-        AudioListener.volume = 0;
     }
 
 
@@ -37,12 +35,14 @@ public class MainMenu_StartMenu : MonoBehaviour
         {
             soundImage.sprite = soundOn;
             PlayerPrefs.SetInt("soundOn", 1);
+            AudioListener.volume = 1;
         }
 
         else
         {
             soundImage.sprite = soundOff;
             PlayerPrefs.SetInt("soundOn", 0);
+            AudioListener.volume = 0;
         }
     }
 }
