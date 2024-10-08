@@ -75,11 +75,13 @@ public class MenuManager : MonoBehaviour
         {
             GamePause.SetActive(false);
             GUI.SetActive(true);
+            Time.timeScale = 1f;
         }
         else
         {
             GamePause.SetActive(true);
             GUI.SetActive(false);
+            Time.timeScale = 0f;
         }
     }
 

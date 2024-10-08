@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\Projects\junglebrostest" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Kong Hero" t="Include">
+          <e p="Editor" t="Include">
+            <e p="MenuItems.cs" t="Include" />
+          </e>
+          <e p="Localisation" t="Include">
+            <e p="Localisation.cs" t="Include" />
+            <e p="LocalisedString.cs" t="Include" />
+            <e p="LocalisedUIText.cs" t="Include" />
+            <e p="MainMenu" t="Include">
+              <e p="GamePauseScript.cs" t="Include" />
+              <e p="ShopLocalisation.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Localisation" t="Include">
+              <e p="Arabic.xml.txt" t="Include" />
+              <e p="Belarusian.xml.txt" t="Include" />
+              <e p="ChineseSimplified.xml.txt" t="Include" />
+              <e p="ChineseTraditional.xml.txt" t="Include" />
+              <e p="English.xml.txt" t="Include" />
+              <e p="French.xml.txt" t="Include" />
+              <e p="German.xml.txt" t="Include" />
+              <e p="Italian.xml.txt" t="Include" />
+              <e p="Polish.xml.txt" t="Include" />
+              <e p="Portuguese.xml.txt" t="Include" />
+              <e p="Russian.xml.txt" t="Include" />
+              <e p="Spanish.xml.txt" t="Include" />
+              <e p="Turkish.xml.txt" t="Include" />
+              <e p="Ukrainian.xml.txt" t="Include" />
+              <e p="Urdu.xml.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Script" t="Include">
+            <e p="AI" t="Include">
+              <e p="BirdAI.cs" t="Include" />
+              <e p="BirdDetectPlayerHelper.cs" t="Include" />
+              <e p="BOSS_1.cs" t="Include" />
+              <e p="BOSS_2.cs" t="Include" />
+              <e p="BOSS_3.cs" t="Include" />
+              <e p="ChasingStone.cs" t="Include" />
+              <e p="DetectMonsterFalling.cs" t="Include" />
+              <e p="DetectPlayerAndSendMessage.cs" t="Include" />
+              <e p="EnemyAI.cs" t="Include" />
+              <e p="FireBallAI.cs" t="Include" />
+              <e p="FireEvil.cs" t="Include" />
+              <e p="FishAI.cs" t="Include" />
+              <e p="FlameFire.cs" t="Include" />
+              <e p="GiveDamageToPlayer.cs" t="Include" />
+              <e p="HealthBarEnemy.cs" t="Include" />
+              <e p="MonsterFish.cs" t="Include" />
+              <e p="MonsterFishDetect.cs" t="Include" />
+              <e p="MonsterIV.cs" t="Include" />
+              <e p="MonsterSimpleAI.cs" t="Include" />
+              <e p="MonsterSnail.cs" t="Include" />
+              <e p="MonsterTriggerHelper.cs" t="Include" />
+              <e p="PathDefinition.cs" t="Include" />
+              <e p="PathedProjectile.cs" t="Include" />
+              <e p="PathedProjectileSpawner.cs" t="Include" />
+              <e p="Projectile.cs" t="Include" />
+              <e p="SimpleProjectile.cs" t="Include" />
+            </e>
+            <e p="AutoSpawn.cs" t="Include" />
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="ChangeHero" t="Include">
+              <e p="SetIconHero.cs" t="Include" />
+            </e>
+            <e p="Confirm" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CheckerPauseGameScript.cs" t="Include" />
+                <e p="CheckerPauseScript.cs" t="Include" />
+                <e p="ConfirmPanelMainMenu.cs" t="Include" />
+                <e p="ConfirmPanelMenuQuitGame.cs" t="Include" />
+                <e p="ConfirmPanelRestart.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Environment" t="Include">
+              <e p="Block.cs" t="Include" />
+              <e p="Coin.cs" t="Include" />
+              <e p="GameFinishFlag.cs" t="Include" />
+              <e p="GiveBullet.cs" t="Include" />
+              <e p="GiveHealth.cs" t="Include" />
+              <e p="ItemAddPoint.cs" t="Include" />
+              <e p="Spring.cs" t="Include" />
+              <e p="WaterScrollingEffect.cs" t="Include" />
+            </e>
+            <e p="GUI" t="Include">
+              <e p="CharacterHolder.cs" t="Include" />
+              <e p="ControllerInput.cs" t="Include" />
+              <e p="FloatingText.cs" t="Include" />
+              <e p="LoadingSreen.cs" t="Include" />
+              <e p="MainMenu_ChracterChoose.cs" t="Include" />
+              <e p="MainMenu_Level.cs" t="Include" />
+              <e p="MainMenu_StartMenu.cs" t="Include" />
+              <e p="MainMenu_World.cs" t="Include" />
+              <e p="MainMenuHomeScene.cs" t="Include" />
+              <e p="MainMenuShopItems.cs" t="Include" />
+              <e p="MainMenuUpdateCoins.cs" t="Include" />
+              <e p="Menu_Gamefinish.cs" t="Include" />
+              <e p="Menu_Gameover.cs" t="Include" />
+              <e p="Menu_GUI.cs" t="Include" />
+              <e p="Menu_StartScreen.cs" t="Include" />
+              <e p="MenuManager.cs" t="Include" />
+              <e p="ResetData.cs" t="Include" />
+            </e>
+            <e p="Helper" t="Include">
+              <e p="AutoDestroy.cs" t="Include" />
+              <e p="BackGroundController.cs" t="Include" />
+              <e p="BlockDestroyEffect.cs" t="Include" />
+              <e p="CameraFadeInEffect.cs" t="Include" />
+              <e p="CloseGateBoss.cs" t="Include" />
+              <e p="FollowObject.cs" t="Include" />
+              <e p="KillPlayerOnTouch.cs" t="Include" />
+              <e p="RayCastCheckCollision.cs" t="Include" />
+              <e p="ResetBoundCamera.cs" t="Include" />
+              <e p="SpawnItem.cs" t="Include" />
+            </e>
+            <e p="MainMenuHelper.cs" t="Include" />
+            <e p="Menu" t="Include">
+              <e p="WorldChooseLocalisation.cs" t="Include" />
+            </e>
+            <e p="NotEnoughCoins.cs" t="Include" />
+            <e p="PlatformController.cs" t="Include" />
+            <e p="Player" t="Include">
+              <e p="Controller2D" t="Include">
+                <e p="Controller2D.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+                <e p="RaycastController.cs" t="Include" />
+              </e>
+              <e p="HealthBar.cs" t="Include" />
+              <e p="ICanTakeDamage.cs" t="Include" />
+              <e p="IPlayerRespawnListener.cs" t="Include" />
+              <e p="MeleeAttack.cs" t="Include" />
+              <e p="RangeAttack.cs" t="Include" />
+            </e>
+            <e p="ReactionEscape" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="EscapeReaction.cs" t="Include" />
+                <e p="EscapeReactionStates.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SimplePathedMoving.cs" t="Include" />
+            <e p="System" t="Include">
+              <e p="CheckPoint.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="GlobalValue.cs" t="Include" />
+              <e p="LevelManager.cs" t="Include" />
+              <e p="SoundManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Texture" t="Include">
+            <e p="Logo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LogoMenuScript.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="junglebrostest.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Sollomon\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sollomon\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_junglebrostest.590292794.00" t="ExcludeRecursive" />
+  </component>
+</project>
