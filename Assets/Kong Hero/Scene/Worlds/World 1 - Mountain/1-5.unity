@@ -1078,6 +1078,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 191540, guid: 47ff9b6a25651d444b757d6ad85d9b43, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 192494, guid: 47ff9b6a25651d444b757d6ad85d9b43, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1092,7 +1096,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11442624, guid: 47ff9b6a25651d444b757d6ad85d9b43, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: NextLevel
+      value: GotoCheckPoint
       objectReference: {fileID: 0}
     - target: {fileID: 11442624, guid: 47ff9b6a25651d444b757d6ad85d9b43, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
