@@ -52,8 +52,9 @@ namespace ReactionEscape
             if (focus)
             {
                 var menuScript = FindObjectOfType<MenuManager>();
-                if(!MenuManager.Instance.Gameover)
-                    menuScript.Pause();
+                if (MenuManager.Instance != null)
+                    if(!MenuManager.Instance.Gameover)
+                        menuScript.Pause();
             }
         }
 
